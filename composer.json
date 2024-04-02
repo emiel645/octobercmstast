@@ -1,5 +1,5 @@
 {
-    "name": "Emiel liefhebber/testplugin",
+    "name": "emielliefhebber/testplugin-plugin",
     "description": "Description of your plugin",
     "type": "october-plugin",
     "keywords": ["octobercms", "plugin"],
